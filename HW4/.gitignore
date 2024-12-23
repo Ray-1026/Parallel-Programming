@@ -1,0 +1,4 @@
+mpi_hello
+pi_*
+!pi_*.cc
+matmul

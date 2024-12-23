@@ -1,0 +1,7 @@
+!*.a
+*.graph
+part1/cg
+part1/cg_grader
+part2/page_rank/pr*
+part2/breadth_first_search/bfs
+part2/breadth_first_search/bfs_grader

@@ -1,0 +1,42 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+.vscode
+*.zip
+HW1/part1/myexp
+HW2/part2/mandelbrot
+HW2/part2/*.ppm
+HW2/part2/objs/
+HW6/*.bmp
+!HW6/input.bmp
+HW6/conv
